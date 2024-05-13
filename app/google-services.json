@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677145218893",
+    "firebase_url": "https://dioncars-default-rtdb.firebaseio.com",
+    "project_id": "dioncars",
+    "storage_bucket": "dioncars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677145218893:android:7a6214fc304906844c3104",
+        "android_client_info": {
+          "package_name": "com.dion.dioncars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypU5aE6dey89MK-he0RabXxaFLoDA6l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

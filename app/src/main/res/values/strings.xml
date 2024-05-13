@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DionCars</string>
+    <string name="title_activity_custom">CustomActivity</string>
+</resources>
